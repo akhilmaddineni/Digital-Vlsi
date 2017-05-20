@@ -2,7 +2,7 @@
 
 This is the code for all the assignments for the course HDL design using verilog.
 List of assignments :
-1. Half adder (using behavioural , data flow and structural
+1. Half adder (using behavioural , data flow and structural)
 2. Full adder
 3. Four bit full adder
 4. Four bit subtractor using full adder
