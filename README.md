@@ -1,7 +1,6 @@
 # Digital-Vlsi
 
 This is the code for all the assignments for the course HDL design using verilog.
-
 List of assignments :
 1. Half adder (using behavioural , data flow and structural
 2. Full adder
@@ -12,6 +11,6 @@ List of assignments :
 7. Asyncronus D flip flop
 8. 8:3 Encoder
 9. Priority Encoder
-10.Left Right Shift Register
-11.Universal Shift Register
-12.Up Down Counter
+10. Left Right Shift Register
+11. Universal Shift Register
+12. Up Down Counter
